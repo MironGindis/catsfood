@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mrongindis.github.io/catsfood/static/css/main.b263c3c6.chunk.css",
-    "main.js": "/mrongindis.github.io/catsfood/static/js/main.acac099f.chunk.js",
-    "main.js.map": "/mrongindis.github.io/catsfood/static/js/main.acac099f.chunk.js.map",
-    "runtime-main.js": "/mrongindis.github.io/catsfood/static/js/runtime-main.15f5a3d7.js",
-    "runtime-main.js.map": "/mrongindis.github.io/catsfood/static/js/runtime-main.15f5a3d7.js.map",
-    "static/js/2.a9df1319.chunk.js": "/mrongindis.github.io/catsfood/static/js/2.a9df1319.chunk.js",
-    "static/js/2.a9df1319.chunk.js.map": "/mrongindis.github.io/catsfood/static/js/2.a9df1319.chunk.js.map",
-    "index.html": "/mrongindis.github.io/catsfood/index.html",
-    "precache-manifest.071b83ae6c69f4db4071c6ef8e636d99.js": "/mrongindis.github.io/catsfood/precache-manifest.071b83ae6c69f4db4071c6ef8e636d99.js",
-    "service-worker.js": "/mrongindis.github.io/catsfood/service-worker.js",
-    "static/css/main.b263c3c6.chunk.css.map": "/mrongindis.github.io/catsfood/static/css/main.b263c3c6.chunk.css.map",
-    "static/js/2.a9df1319.chunk.js.LICENSE.txt": "/mrongindis.github.io/catsfood/static/js/2.a9df1319.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/mrongindis.github.io/catsfood/static/media/backgroundimage.79d68011.png",
-    "static/media/Photo1.png": "/mrongindis.github.io/catsfood/static/media/Photo1.4766b0a2.png"
+    "main.css": "/MironGindis.github.io/catsfood/static/css/main.bf4b8b3b.chunk.css",
+    "main.js": "/MironGindis.github.io/catsfood/static/js/main.c8cd6723.chunk.js",
+    "main.js.map": "/MironGindis.github.io/catsfood/static/js/main.c8cd6723.chunk.js.map",
+    "runtime-main.js": "/MironGindis.github.io/catsfood/static/js/runtime-main.f5430191.js",
+    "runtime-main.js.map": "/MironGindis.github.io/catsfood/static/js/runtime-main.f5430191.js.map",
+    "static/js/2.a9df1319.chunk.js": "/MironGindis.github.io/catsfood/static/js/2.a9df1319.chunk.js",
+    "static/js/2.a9df1319.chunk.js.map": "/MironGindis.github.io/catsfood/static/js/2.a9df1319.chunk.js.map",
+    "index.html": "/MironGindis.github.io/catsfood/index.html",
+    "precache-manifest.89e6b1c100c9de04c7b49cfb88683d6f.js": "/MironGindis.github.io/catsfood/precache-manifest.89e6b1c100c9de04c7b49cfb88683d6f.js",
+    "service-worker.js": "/MironGindis.github.io/catsfood/service-worker.js",
+    "static/css/main.bf4b8b3b.chunk.css.map": "/MironGindis.github.io/catsfood/static/css/main.bf4b8b3b.chunk.css.map",
+    "static/js/2.a9df1319.chunk.js.LICENSE.txt": "/MironGindis.github.io/catsfood/static/js/2.a9df1319.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MironGindis.github.io/catsfood/static/media/backgroundimage.79d68011.png",
+    "static/media/Photo1.png": "/MironGindis.github.io/catsfood/static/media/Photo1.4766b0a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.15f5a3d7.js",
+    "static/js/runtime-main.f5430191.js",
     "static/js/2.a9df1319.chunk.js",
-    "static/css/main.b263c3c6.chunk.css",
-    "static/js/main.acac099f.chunk.js"
+    "static/css/main.bf4b8b3b.chunk.css",
+    "static/js/main.c8cd6723.chunk.js"
   ]
 }
